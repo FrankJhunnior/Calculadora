@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, inicial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: beige; 
+        }
+        .contenedor{
+            width: 95%;
+            border: 0px solid gray;
+            margin: px auto;
+            padding: 30px;
+            background-color: ; 
+        }
+        .fila{
+            border: 1px solid gray;
+            margin: 5px;
+            padding: 5px;
+            min-height: 50px;
+            color:rgb(255, 77, 81) ;
+            border:1px;
+        
